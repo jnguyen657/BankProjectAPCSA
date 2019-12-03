@@ -1,0 +1,2 @@
+git remote add origin https://github.com/ggTazz/BankProjectAPCSA/test.git
+git push origin master
